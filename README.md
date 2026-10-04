@@ -20,13 +20,13 @@ Predictive models can be useful, but production decisions need controls. Predict
 
 ## Built with
 
--gemini(Plannig)
 - Python and Streamlit
 - pandas and NumPy
 - scikit-learn, XGBoost, and LightGBM
 - Plotly
 - ReportLab
 - windsurf(debugging)
+- Gemini(Planning)
 
 ## Run locally
 
