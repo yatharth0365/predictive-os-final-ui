@@ -25,8 +25,6 @@ Predictive models can be useful, but production decisions need controls. Predict
 - scikit-learn, XGBoost, and LightGBM
 - Plotly
 - ReportLab
-- windsurf(debugging)
-- Gemini(Planning)
 
 ## Run locally
 
