@@ -50,4 +50,4 @@ The live demo is deployed with Streamlit Community Cloud. In Streamlit Cloud, se
 
 ## Acknowledgements
 
-Gemini was used for planning, and Windsurf was used for debugging during development.
+Gemini was used for planning, and Windsurf was used for debugging and codex during development.
